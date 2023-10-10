@@ -35,6 +35,10 @@ Please adjust the dataset's location as needed for your project.
 
 This image showcases a sample result of the food recognition process.
 
+## Resulting Model 
+
+[Here is the model](https://drive.google.com/drive/u/0/folders/1zE3Q8Y3lIn0C6GffX0Yk7vLNe-7D0iyh)
+
 ## Contact
 
 If you have any questions or suggestions, please feel free to contact me at amineaithamma2004@gmail.com.
